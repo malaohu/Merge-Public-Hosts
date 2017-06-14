@@ -1,6 +1,10 @@
 # Merge-Public-Hosts
 合并公共的HOSTS
 
+# 部署指南
+http://51.ruyo.net/p/4252.html
+
+# 详细说明
 * AD(vokins)：https://raw.githubusercontent.com/vokins/yhosts/master/hosts
 * play ： https://raw.githubusercontent.com/sy618/hosts/master/p
 * YouTube ： https://raw.githubusercontent.com/sy618/hosts/master/y
